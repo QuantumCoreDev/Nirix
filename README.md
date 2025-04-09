@@ -9,7 +9,6 @@
 **Pushkar Dadasaheb Kharad**  
 Founder & CEO, GrowwMore Synergy  
 Age: 14 Years  
-Village: Anandpur (Paithan)
 
 ---
 
