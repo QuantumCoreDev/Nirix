@@ -1,5 +1,4 @@
 # "Nirix" - Smart Irrigation System  
-### By GrowwMore Synergy (A Technology Company)
 
 "Nirix" is an automatic, solar-powered smart irrigation system designed to help farmers efficiently manage water supply based on real-time soil moisture data. Built using an Arduino UNO, LCD with I2C interface, a soil moisture sensor, and a relay-controlled motor.
 
@@ -7,7 +6,6 @@
 
 ### 👨‍💻 Made with passion by:  
 **Pushkar Dadasaheb Kharad**  
-Founder & CEO, GrowwMore Synergy  
 Age: 14 Years  
 
 ---
@@ -83,5 +81,3 @@ Age: 14 Years
   - One end to **COM** of relay
   - Other end to **NO (Normally Open)** of relay  
 - The **Neutral** wire goes directly from plug to motor
-
-⚠️ **NOTE:** Use proper insulation while handling AC power.
