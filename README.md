@@ -23,7 +23,6 @@ Age: 14 Years
 - Turns **OFF** when soil is sufficiently wet
 - Shows live **Moisture %** on LCD in Marathi
 - Uses **solar energy** for sustainability
-- 24/7 cooling with **12V DC fan**
 
 ---
 
@@ -34,9 +33,8 @@ Age: 14 Years
 - Soil Moisture Sensor  
 - 1-Channel Relay Module  
 - Breadboard + Jumper Wires  
-- 12V Lead-Acid Battery (Solar Charged)  
-- 12V DC Cooling Fan (runs 24/7)  
-- AC Water Pump (2-wire)
+- 12V Lead-Acid Battery (Solar Charged)    
+- AC Water Pump
 
 ---
 
